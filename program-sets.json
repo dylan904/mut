@@ -1,0 +1,693 @@
+[
+  {
+    "program": 234,
+    "name": "AKA",
+    "sets": [
+      {
+        "name": "PRIME TIME",
+        "exchange": [
+          {
+            "count": 4,
+            "overall": 84
+          },
+          {
+            "count": 1,
+            "id": "24-15610888"
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-15510888"
+          }
+        ]
+      },
+      {
+        "name": "FAMOUS JAMEIS",
+        "exchange": [
+          {
+            "count": 4,
+            "overall": 84
+          },
+          {
+            "count": 1,
+            "id": "24-15619982"
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-15519982"
+          }
+        ]
+      },
+      {
+        "name": "G.O.A.T.",
+        "exchange": [
+          {
+            "count": 4,
+            "overall": 84
+          },
+          {
+            "count": 1,
+            "id": "24-15610894"
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-15510894"
+          }
+        ]
+      },
+      {
+        "name": "THE BUS",
+        "exchange": [
+          {
+            "count": 4,
+            "overall": 84
+          },
+          {
+            "count": 1,
+            "id": "24-15601655"
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-15501655"
+          }
+        ]
+      },
+      {
+        "name": "BWags",
+        "exchange": [
+          {
+            "count": 4,
+            "overall": 84
+          },
+          {
+            "count": 1,
+            "id": "24-15611567"
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-15511567"
+          }
+        ]
+      },
+      {
+        "name": "Big Cat",
+        "exchange": [
+          {
+            "count": 4,
+            "overall": 84
+          },
+          {
+            "count": 1,
+            "id": "24-15602527"
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-15502527"
+          }
+        ]
+      },
+      {
+        "name": "84 OVR AKA PLAYER EXCHANGE",
+        "exchange": [
+          {
+            "count": 8,
+            "overall": 80
+          }
+        ],
+        "reward": [
+          {
+            "overall": 84
+          }
+        ]
+      },
+      {
+        "name": "80 OVR AKA PLAYER EXCHANGE",
+        "exchange": [
+          {
+            "count": 3,
+            "overall_min": 78,
+            "overall_max": 79,
+            "programId": ""
+          }
+        ],
+        "reward": [
+          {
+            "overall": 80
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "program": 243,
+    "name": "Legends",
+    "sets": [
+      {
+        "name": "ICONIC LEGEND RICHARD SHERMAN",
+        "exchange": [
+          {
+            "count": 1,
+            "id": "24-14110811"
+          },
+          {
+            "count": 2,
+            "overall": 84
+          },
+          {
+            "count": 6,
+            "overall": 81
+          },
+          {
+            "count": 6,
+            "overall": 78
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-14010811"
+          }
+        ]
+      },
+      {
+        "name": "ICONIC LEGEND KAM CHANCELLOR",
+        "exchange": [
+          {
+            "count": 1,
+            "id": "24-14109964"
+          },
+          {
+            "count": 2,
+            "overall": 84
+          },
+          {
+            "count": 6,
+            "overall": 81
+          },
+          {
+            "count": 6,
+            "overall": 78
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-14009964"
+          }
+        ]
+      },
+      {
+        "name": "ICONIC LEGEND WARREN MOON",
+        "exchange": [
+          {
+            "count": 1,
+            "id": "24-14111203"
+          },
+          {
+            "count": 2,
+            "overall": 84
+          },
+          {
+            "count": 6,
+            "overall": 81
+          },
+          {
+            "count": 6,
+            "overall": 78
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-14011203"
+          }
+        ]
+      },
+      {
+        "name": "ICONIC LEGEND DAN DIERDORF",
+        "exchange": [
+          {
+            "count": 1,
+            "id": "24-14112225"
+          },
+          {
+            "count": 2,
+            "overall": 84
+          },
+          {
+            "count": 6,
+            "overall": 81
+          },
+          {
+            "count": 6,
+            "overall": 78
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-14012225"
+          }
+        ]
+      },
+      {
+        "name": "ICONIC LEGEND BWags",
+        "exchange": [
+          {
+            "count": 1,
+            "id": "24-14110811"
+          },
+          {
+            "count": 2,
+            "overall": 84
+          },
+          {
+            "count": 6,
+            "overall": 81
+          },
+          {
+            "count": 6,
+            "overall": 78
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-15511567"
+          }
+        ]
+      },
+      {
+        "name": "ICONIC LEGEND FRANCO HARRIS",
+        "exchange": [
+          {
+            "count": 1,
+            "id": "24-14111971"
+          },
+          {
+            "count": 2,
+            "overall": 84
+          },
+          {
+            "count": 6,
+            "overall": 81
+          },
+          {
+            "count": 6,
+            "overall": 78
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-14011971"
+          }
+        ]
+      },
+      {
+        "name": "ICONIC LEGEND DEVIN HESTER",
+        "exchange": [
+          {
+            "count": 1,
+            "id": "24-14111613"
+          },
+          {
+            "count": 2,
+            "overall": 84
+          },
+          {
+            "count": 6,
+            "overall": 81
+          },
+          {
+            "count": 6,
+            "overall": 78
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-14011613"
+          }
+        ]
+      },
+      {
+        "name": "ICONIC LEGEND JEVON KEARSE",
+        "exchange": [
+          {
+            "count": 1,
+            "id": "24-14101717"
+          },
+          {
+            "count": 2,
+            "overall": 84
+          },
+          {
+            "count": 6,
+            "overall": 81
+          },
+          {
+            "count": 6,
+            "overall": 78
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-14001717"
+          }
+        ]
+      },
+      {
+        "name": "ICONIC LEGEND ED REED",
+        "exchange": [
+          {
+            "count": 1,
+            "id": "24-14111358"
+          },
+          {
+            "count": 2,
+            "overall": 84
+          },
+          {
+            "count": 6,
+            "overall": 81
+          },
+          {
+            "count": 6,
+            "overall": 78
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-14011358"
+          }
+        ]
+      },
+      {
+        "name": "ICONIC LEGEND JUNIOR SEAU",
+        "exchange": [
+          {
+            "count": 1,
+            "id": "24-14100590"
+          },
+          {
+            "count": 2,
+            "overall": 84
+          },
+          {
+            "count": 6,
+            "overall": 81
+          },
+          {
+            "count": 6,
+            "overall": 78
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-14000590"
+          }
+        ]
+      },
+      {
+        "name": "ICONIC LEGEND FRED TAYLOR",
+        "exchange": [
+          {
+            "count": 1,
+            "id": "24-14101040"
+          },
+          {
+            "count": 2,
+            "overall": 84
+          },
+          {
+            "count": 6,
+            "overall": 81
+          },
+          {
+            "count": 6,
+            "overall": 78
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-14001040"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "program": 236,
+    "name": "Headliners",
+    "sets": [
+      {
+        "name": "Taylor Decker",
+        "exchange": [
+          {
+            "count": 5,
+            "overall": 84,
+            "programId": ""
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-13017665"
+          }
+        ]
+      },
+      {
+        "name": "JC Jackson",
+        "exchange": [
+          {
+            "count": 5,
+            "overall": 84,
+            "programId": ""
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-13013406"
+          }
+        ]
+      },
+      {
+        "name": "Drake London",
+        "exchange": [
+          {
+            "count": 5,
+            "overall": 84,
+            "programId": ""
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-13022068"
+          }
+        ]
+      },
+      {
+        "name": "Kamren Curl",
+        "exchange": [
+          {
+            "count": 5,
+            "overall": 84,
+            "programId": ""
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-13021012"
+          }
+        ]
+      },
+      {
+        "name": "Jeremiah Owusu-Koramoah",
+        "exchange": [
+          {
+            "count": 5,
+            "overall": 84,
+            "programId": ""
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-13021500"
+          }
+        ]
+      },
+      {
+        "name": "Kenny Pickett",
+        "exchange": [
+          {
+            "count": 5,
+            "overall": 84,
+            "programId": ""
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-13022046"
+          }
+        ]
+      },
+      {
+        "name": "80 OVR Headliners Player Exchange",
+        "exchange": [
+          {
+            "count": 5,
+            "overall_min": 77,
+            "overall_max": 78
+          }
+        ],
+        "reward": [
+          {
+            "overall": 80
+          }
+        ]
+      },
+      {
+        "name": "77-78 OVR Headliners Player Exchange",
+        "exchange": [
+          {
+            "count": 6,
+            "overall_min": 74,
+            "overall_max": 75
+          }
+        ],
+        "reward": [
+          {
+            "overall_min": 77,
+            "overall_max": 78
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "program": "",
+    "name": "Core",
+    "sets": [
+      {
+        "name": "84-85 OVR ELITE PLAYER",
+        "exchange": [
+          {
+            "count": 4,
+            "overall_min": 82,
+            "overall_max": 83
+          }
+        ],
+        "reward": [
+          {
+            "overall_min": 84,
+            "overall_max": 85
+          }
+        ]
+      },
+      {
+        "name": "82-83 OVR ELITE PLAYER",
+        "exchange": [
+          {
+            "count": 4,
+            "overall_min": 80,
+            "overall_max": 81
+          }
+        ],
+        "reward": [
+          {
+            "overall_min": 82,
+            "overall_max": 83
+          }
+        ]
+      },
+      {
+        "name": "80-81 OVR ELITE PLAYER",
+        "exchange": [
+          {
+            "count": 4,
+            "overall_min": 78,
+            "overall_max": 79
+          }
+        ],
+        "reward": [
+          {
+            "overall_min": 80,
+            "overall_max": 81
+          }
+        ]
+      },
+      {
+        "name": "78-79 OVR ELITE PLAYER",
+        "exchange": [
+          {
+            "count": 4,
+            "overall_min": 76,
+            "overall_max": 77
+          }
+        ],
+        "reward": [
+          {
+            "overall_min": 78,
+            "overall_max": 79
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "program": 232,
+    "name": "Team Builders",
+    "sets": [
+      {
+        "name": "85 OVR TEAM BUILDER FANTASY PACK",
+        "exchange": [
+          {
+            "count": 2,
+            "overall_min": 82,
+            "overall_max": 83,
+            "programId": ""
+          },
+          {
+            "count": 4,
+            "overall_min": 80,
+            "overall_max": 81,
+            "programId": ""
+          },
+          {
+            "count": 7,
+            "overall_min": 78,
+            "overall_max": 79,
+            "programId": ""
+          }
+        ],
+        "reward": [
+          {
+            "overall_min": 84,
+            "overall_max": 85
+          }
+        ]
+      }
+    ]
+  }
+]
