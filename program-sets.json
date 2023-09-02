@@ -689,5 +689,75 @@
         ]
       }
     ]
+  },
+  {
+    "program": 234,
+    "name": "AKA",
+    "sets": [
+      {
+        "name": "Bo Jackson",
+        "exchange": [
+          {
+            "count": 5,
+            "overall_min": 84,
+            "overall_max": 85
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-18009877"
+          }
+        ]
+      },
+      {
+        "name": "Logan Mankins",
+        "exchange": [
+          {
+            "count": 5,
+            "overall_min": 84,
+            "overall_max": 85
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-18011371"
+          }
+        ]
+      },
+      {
+        "name": "Sean Taylor",
+        "exchange": [
+          {
+            "count": 5,
+            "overall_min": 84,
+            "overall_max": 85
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-18017497"
+          }
+        ]
+      },
+      {
+        "name": "Manti Te'o",
+        "exchange": [
+          {
+            "count": 5,
+            "overall_min": 84,
+            "overall_max": 85
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-18001287"
+          }
+        ]
+      }
+    ]
   }
 ]
