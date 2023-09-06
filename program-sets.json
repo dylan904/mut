@@ -692,7 +692,7 @@
   },
   {
     "program": 234,
-    "name": "AKA",
+    "name": "Campus Heros",
     "sets": [
       {
         "name": "Bo Jackson",
@@ -755,6 +755,157 @@
           {
             "type": "player",
             "id": "24-18001287"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "program": 234,
+    "name": "Team of the Week",
+    "sets": [
+      {
+        "name": "Ihmir Smith-Marsette",
+        "exchange": [
+          {
+            "count": 5,
+            "overall": 85,
+          },
+          {
+            "count": 6,
+            "overall": 81,
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-11021605"
+          }
+        ]
+      },
+      {
+        "name": "Essang Bassey",
+        "exchange": [
+          {
+            "count": 5,
+            "overall": 85,
+          },
+          {
+            "count": 6,
+            "overall": 81,
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-11021149"
+          }
+        ]
+      },
+      {
+        "name": "Emanuel Wilson",
+        "exchange": [
+          {
+            "count": 5,
+            "overall": 85,
+          },
+          {
+            "count": 6,
+            "overall": 81,
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-11023335"
+          }
+        ]
+      },
+      {
+        "name": "Ronnie Hickman",
+        "exchange": [
+          {
+            "count": 5,
+            "overall": 85,
+          },
+          {
+            "count": 6,
+            "overall": 81,
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-11022710"
+          }
+        ]
+      }
+
+
+
+
+
+
+
+
+
+      {
+        "name": "Will Grier",
+        "exchange": [
+          {
+            "count": 8,
+            "overall": 81,
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-11020330"
+          }
+        ]
+      },
+      {
+        "name": "Caleb Murphy",
+        "exchange": [
+          {
+            "count": 8,
+            "overall": 81,
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-11023136"
+          }
+        ]
+      },
+      {
+        "name": "Albert Okwuegbunam",
+        "exchange": [
+          {
+            "count": 8,
+            "overall": 81,
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-11020950"
+          }
+        ]
+      },
+      {
+        "name": "Daniel Carlson",
+        "exchange": [
+          {
+            "count": 8,
+            "overall": 81,
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-11013382"
           }
         ]
       }
