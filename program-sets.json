@@ -449,6 +449,114 @@
             "id": "24-14001040"
           }
         ]
+      },
+      {
+        "name": "ICONIC LEGEND SHANNON SHARPE",
+        "exchange": [
+          {
+            "count": 1,
+            "id": "24-14111427"
+          },
+          {
+            "count": 2,
+            "overall": 85
+          },
+          {
+            "count": 6,
+            "overall": 82
+          },
+          {
+            "count": 6,
+            "overall": 79
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-14011427"
+          }
+        ]
+      },
+      {
+        "name": "ICONIC LEGEND BRUCE SMITH",
+        "exchange": [
+          {
+            "count": 1,
+            "id": "24-14111311"
+          },
+          {
+            "count": 2,
+            "overall": 85
+          },
+          {
+            "count": 6,
+            "overall": 82
+          },
+          {
+            "count": 6,
+            "overall": 79
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-14011311"
+          }
+        ]
+      },
+      {
+        "name": "ICONIC LEGEND MICHAEL VICK",
+        "exchange": [
+          {
+            "count": 1,
+            "id": "24-14114120"
+          },
+          {
+            "count": 2,
+            "overall": 85
+          },
+          {
+            "count": 6,
+            "overall": 82
+          },
+          {
+            "count": 6,
+            "overall": 79
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-14014120"
+          }
+        ]
+      },
+      {
+        "name": "ICONIC LEGEND DEMARCUS WARE",
+        "exchange": [
+          {
+            "count": 1,
+            "id": "24-14126689"
+          },
+          {
+            "count": 2,
+            "overall": 85
+          },
+          {
+            "count": 6,
+            "overall": 82
+          },
+          {
+            "count": 6,
+            "overall": 79
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-14026689"
+          }
+        ]
       }
     ]
   },
@@ -897,6 +1005,44 @@
           {
             "type": "player",
             "id": "24-11013382"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "program": 234,
+    "name": "Ultimate Kickoff",
+    "sets": [
+      {
+        "name": "Javon Hargrave",
+        "exchange": [
+          {
+            "count": 5,
+            "overall_min": 85,
+            "overall_max": 86
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-19017670"
+          }
+        ]
+      },
+      {
+        "name": "JuJu Smith-Schuster",
+        "exchange": [
+          {
+            "count": 5,
+            "overall_min": 85,
+            "overall_max": 86
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-19012571"
           }
         ]
       }
