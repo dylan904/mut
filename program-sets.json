@@ -4,6 +4,47 @@
     "name": "AKA",
     "sets": [
       {
+        "name": "SLIM REAPER (D.Smith)",
+        "exchange": [
+          {
+            "count": 4,
+            "overall": 85
+          },
+          {
+            "count": 1,
+            "id": "24-15621761"
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-15521761"
+          }
+        ]
+      },
+      {
+        "name": "L.T.",
+        "exchange": [
+          {
+            "count": 4,
+            "overall": 85
+          },
+          {
+            "count": 1,
+            "id": "24-15610891"
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-15510891"
+          }
+        ]
+      },
+
+
+      
+      {
         "name": "PRIME TIME",
         "exchange": [
           {
