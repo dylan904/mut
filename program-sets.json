@@ -914,6 +914,44 @@
     "name": "Team of the Week",
     "sets": [
       {
+        "name": "Tyreek Hill",
+        "exchange": [
+          {
+            "count": 5,
+            "overall": 85
+          },
+          {
+            "count": 6,
+            "overall": 81
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-11017838"
+          }
+        ]
+      },
+      {
+        "name": "DaRon Bland",
+        "exchange": [
+          {
+            "count": 5,
+            "overall": 85
+          },
+          {
+            "count": 6,
+            "overall": 81
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-11022485"
+          }
+        ]
+      },
+      {
         "name": "Ihmir Smith-Marsette",
         "exchange": [
           {
@@ -1046,6 +1084,36 @@
           {
             "type": "player",
             "id": "24-11013382"
+          }
+        ]
+      },
+      {
+        "name": "Tyson Campbell",
+        "exchange": [
+          {
+            "count": 8,
+            "overall": 81
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-11021696"
+          }
+        ]
+      },
+      {
+        "name": "Brandon Aiyuk",
+        "exchange": [
+          {
+            "count": 8,
+            "overall": 81
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-11021069"
           }
         ]
       }
