@@ -195,6 +195,60 @@
     "name": "Legends",
     "sets": [
       {
+        "name": "ICONIC LEGEND CHARLES WOODSON",
+        "exchange": [
+          {
+            "count": 1,
+            "id": "24-14111352"
+          },
+          {
+            "count": 2,
+            "overall": 85
+          },
+          {
+            "count": 6,
+            "overall": 82
+          },
+          {
+            "count": 6,
+            "overall": 79
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-14011352"
+          }
+        ]
+      },
+      {
+        "name": "ICONIC LEGEND CALVIN JOHNSON",
+        "exchange": [
+          {
+            "count": 1,
+            "id": "24-14127903"
+          },
+          {
+            "count": 2,
+            "overall": 85
+          },
+          {
+            "count": 6,
+            "overall": 82
+          },
+          {
+            "count": 6,
+            "overall": 79
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-14027903"
+          }
+        ]
+      },
+      {
         "name": "ICONIC LEGEND RICHARD SHERMAN",
         "exchange": [
           {
@@ -1123,6 +1177,38 @@
     "program": 234,
     "name": "Ultimate Kickoff",
     "sets": [
+      {
+        "name": "Aaron Rodgers",
+        "exchange": [
+          {
+            "count": 5,
+            "overall_min": 85,
+            "overall_max": 86
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-19026668"
+          }
+        ]
+      },
+      {
+        "name": "Jadeveon Clowney",
+        "exchange": [
+          {
+            "count": 5,
+            "overall_min": 85,
+            "overall_max": 86
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-19010845"
+          }
+        ]
+      },
       {
         "name": "Javon Hargrave",
         "exchange": [
