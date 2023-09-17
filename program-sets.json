@@ -4,6 +4,44 @@
     "name": "AKA",
     "sets": [
       {
+        "name": "GRONK (R.Gronkowski)",
+        "exchange": [
+          {
+            "count": 4,
+            "overall": 85
+          },
+          {
+            "count": 1,
+            "id": "24-15609784"
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-15509784"
+          }
+        ]
+      },
+      {
+        "name": "PAT PETE (P.Peterson)",
+        "exchange": [
+          {
+            "count": 4,
+            "overall": 85
+          },
+          {
+            "count": 1,
+            "id": "24-15610743"
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-15510743"
+          }
+        ]
+      },
+      {
         "name": "SLIM REAPER (D.Smith)",
         "exchange": [
           {
