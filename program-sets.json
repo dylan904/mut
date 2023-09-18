@@ -4,6 +4,44 @@
     "name": "AKA",
     "sets": [
       {
+        "name": "THE BLOND BOMBER (T.Bradshaw)",
+        "exchange": [
+          {
+            "count": 4,
+            "overall": 85
+          },
+          {
+            "count": 1,
+            "id": "24-15623339"
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-15523339"
+          }
+        ]
+      },
+      {
+        "name": "COUNTRY STRONG (C.Humphrey)",
+        "exchange": [
+          {
+            "count": 4,
+            "overall": 85
+          },
+          {
+            "count": 1,
+            "id": "24-15621551"
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-15521551"
+          }
+        ]
+      },
+      {
         "name": "GRONK (R.Gronkowski)",
         "exchange": [
           {
