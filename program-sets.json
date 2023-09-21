@@ -1044,6 +1044,44 @@
     "name": "Team of the Week",
     "sets": [
       {
+        "name": "Tre Brown",
+        "exchange": [
+          {
+            "count": 5,
+            "overall": 85
+          },
+          {
+            "count": 6,
+            "overall": 81
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-11021658"
+          }
+        ]
+      },
+      {
+        "name": "Mike Evans",
+        "exchange": [
+          {
+            "count": 5,
+            "overall": 85
+          },
+          {
+            "count": 6,
+            "overall": 81
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-1101085"
+          }
+        ]
+      },
+      {
         "name": "Tyreek Hill",
         "exchange": [
           {
