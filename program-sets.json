@@ -4,6 +4,40 @@
     "name": "AKA",
     "sets": [
       {
+        "name": "Isaiah Simmons",
+        "exchange": [
+          {
+            "count": 5,
+            "overall_min": 86,
+            "overall_max": 87
+          },
+          {
+            "count": 1,
+            "id": "24-20021000"
+          }
+        ]
+      },
+      {
+        "name": "Najee Harris",
+        "exchange": [
+          {
+            "count": 5,
+            "overall_min": 86,
+            "overall_max": 87
+          },
+          {
+            "count": 1,
+            "id": "24-20021829"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "program": 234,
+    "name": "AKA",
+    "sets": [
+      {
         "name": "THE BLOND BOMBER (T.Bradshaw)",
         "exchange": [
           {
@@ -1192,6 +1226,36 @@
           {
             "type": "player",
             "id": "24-11022710"
+          }
+        ]
+      },
+      {
+        "name": "Sam Howell",
+        "exchange": [
+          {
+            "count": 8,
+            "overall": 81
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-11022380"
+          }
+        ]
+      },
+      {
+        "name": "Jason Pinnock",
+        "exchange": [
+          {
+            "count": 8,
+            "overall": 81
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-11021701"
           }
         ]
       },
