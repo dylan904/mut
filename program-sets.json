@@ -10,9 +10,11 @@
             "count": 5,
             "overall_min": 86,
             "overall_max": 87
-          },
+          }
+        ],
+        "reward": [
           {
-            "count": 1,
+            "type": "player",
             "id": "24-20021000"
           }
         ]
@@ -24,9 +26,11 @@
             "count": 5,
             "overall_min": 86,
             "overall_max": 87
-          },
+          }
+        ],
+        "reward": [
           {
-            "count": 1,
+            "type": "player",
             "id": "24-20021829"
           }
         ]
