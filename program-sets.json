@@ -155,9 +155,6 @@
           }
         ]
       },
-
-
-      
       {
         "name": "PRIME TIME",
         "exchange": [
@@ -273,6 +270,7 @@
         ]
       },
       {
+        "active": false,
         "name": "84 OVR AKA PLAYER EXCHANGE",
         "exchange": [
           {
@@ -287,6 +285,7 @@
         ]
       },
       {
+        "active": false,
         "name": "80 OVR AKA PLAYER EXCHANGE",
         "exchange": [
           {
@@ -308,6 +307,60 @@
     "program": 243,
     "name": "Legends",
     "sets": [
+      {
+        "name": "ICONIC LEGEND TROY POLALALU",
+        "exchange": [
+          {
+            "count": 1,
+            "id": "24-14116548"
+          },
+          {
+            "count": 2,
+            "overall": 85
+          },
+          {
+            "count": 6,
+            "overall": 82
+          },
+          {
+            "count": 6,
+            "overall": 79
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-14016548"
+          }
+        ]
+      },
+      {
+        "name": "ICONIC LEGEND WALTER PAYTON",
+        "exchange": [
+          {
+            "count": 1,
+            "id": "24-14127505"
+          },
+          {
+            "count": 2,
+            "overall": 85
+          },
+          {
+            "count": 6,
+            "overall": 82
+          },
+          {
+            "count": 6,
+            "overall": 79
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-14027505"
+          }
+        ]
+      },
       {
         "name": "ICONIC LEGEND CHARLES WOODSON",
         "exchange": [
@@ -363,6 +416,7 @@
         ]
       },
       {
+        "active": false,
         "name": "ICONIC LEGEND RICHARD SHERMAN",
         "exchange": [
           {
@@ -390,6 +444,7 @@
         ]
       },
       {
+        "active": false,
         "name": "ICONIC LEGEND KAM CHANCELLOR",
         "exchange": [
           {
@@ -417,6 +472,7 @@
         ]
       },
       {
+        "active": false,
         "name": "ICONIC LEGEND WARREN MOON",
         "exchange": [
           {
@@ -444,6 +500,7 @@
         ]
       },
       {
+        "active": false,
         "name": "ICONIC LEGEND DAN DIERDORF",
         "exchange": [
           {
@@ -471,33 +528,7 @@
         ]
       },
       {
-        "name": "ICONIC LEGEND BWags",
-        "exchange": [
-          {
-            "count": 1,
-            "id": "24-14110811"
-          },
-          {
-            "count": 2,
-            "overall": 84
-          },
-          {
-            "count": 6,
-            "overall": 81
-          },
-          {
-            "count": 6,
-            "overall": 78
-          }
-        ],
-        "reward": [
-          {
-            "type": "player",
-            "id": "24-15511567"
-          }
-        ]
-      },
-      {
+        "active": false,
         "name": "ICONIC LEGEND FRANCO HARRIS",
         "exchange": [
           {
@@ -525,6 +556,7 @@
         ]
       },
       {
+        "active": false,
         "name": "ICONIC LEGEND DEVIN HESTER",
         "exchange": [
           {
@@ -552,6 +584,7 @@
         ]
       },
       {
+        "active": false,
         "name": "ICONIC LEGEND JEVON KEARSE",
         "exchange": [
           {
@@ -579,6 +612,7 @@
         ]
       },
       {
+        "active": false,
         "name": "ICONIC LEGEND ED REED",
         "exchange": [
           {
@@ -606,6 +640,7 @@
         ]
       },
       {
+        "active": false,
         "name": "ICONIC LEGEND JUNIOR SEAU",
         "exchange": [
           {
@@ -633,6 +668,7 @@
         ]
       },
       {
+        "active": false,
         "name": "ICONIC LEGEND FRED TAYLOR",
         "exchange": [
           {
@@ -770,6 +806,7 @@
     ]
   },
   {
+    "active": false,
     "program": 236,
     "name": "Headliners",
     "sets": [
@@ -903,6 +940,7 @@
     ]
   },
   {
+    "active": false,
     "program": "",
     "name": "Core",
     "sets": [
@@ -973,6 +1011,7 @@
     ]
   },
   {
+    "active": false,
     "program": 232,
     "name": "Team Builders",
     "sets": [
@@ -1008,6 +1047,7 @@
     ]
   },
   {
+    "active": false,
     "program": 234,
     "name": "Campus Heros",
     "sets": [
@@ -1078,6 +1118,7 @@
     ]
   },
   {
+    "active": false,
     "program": 234,
     "name": "Team of the Week",
     "sets": [
@@ -1356,6 +1397,7 @@
     ]
   },
   {
+    "active": false,
     "program": 234,
     "name": "Ultimate Kickoff",
     "sets": [
