@@ -308,6 +308,60 @@
     "name": "Legends",
     "sets": [
       {
+        "name": "ICONIC LEGEND PAUL KRAUSE",
+        "exchange": [
+          {
+            "count": 1,
+            "id": "24-14102915"
+          },
+          {
+            "count": 2,
+            "overall": 86
+          },
+          {
+            "count": 6,
+            "overall": 83
+          },
+          {
+            "count": 6,
+            "overall": 80
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-14002915"
+          }
+        ]
+      },
+      {
+        "name": "ICONIC LEGEND WILLIE ROAF",
+        "exchange": [
+          {
+            "count": 1,
+            "id": "24-14101559"
+          },
+          {
+            "count": 2,
+            "overall": 86
+          },
+          {
+            "count": 6,
+            "overall": 83
+          },
+          {
+            "count": 6,
+            "overall": 80
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-14001559"
+          }
+        ]
+      },
+      {
         "name": "ICONIC LEGEND TROY POLALALU",
         "exchange": [
           {
@@ -1122,6 +1176,44 @@
     "program": 234,
     "name": "Team of the Week",
     "sets": [
+      {
+        "name": "Tua Tagovailoa",
+        "exchange": [
+          {
+            "count": 5,
+            "overall": 85
+          },
+          {
+            "count": 6,
+            "overall": 81
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-11020916"
+          }
+        ]
+      },
+      {
+        "name": "Terrel Bernard",
+        "exchange": [
+          {
+            "count": 5,
+            "overall": 85
+          },
+          {
+            "count": 6,
+            "overall": 81
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-11122192"
+          }
+        ]
+      },
       {
         "name": "Tre Brown",
         "exchange": [
