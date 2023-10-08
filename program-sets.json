@@ -308,6 +308,60 @@
     "name": "Legends",
     "sets": [
       {
+        "name": "ICONIC LEGEND JOHN RANDLE",
+        "exchange": [
+          {
+            "count": 1,
+            "id": "24-14112183"
+          },
+          {
+            "count": 2,
+            "overall": 87
+          },
+          {
+            "count": 6,
+            "overall": 84
+          },
+          {
+            "count": 6,
+            "overall": 81
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-14012183"
+          }
+        ]
+      },
+      {
+        "name": "ICONIC LEGEND JOE MONTANA",
+        "exchange": [
+          {
+            "count": 1,
+            "id": "24-14111208"
+          },
+          {
+            "count": 2,
+            "overall": 87
+          },
+          {
+            "count": 6,
+            "overall": 84
+          },
+          {
+            "count": 6,
+            "overall": 81
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-14011208"
+          }
+        ]
+      },
+      {
         "name": "ICONIC LEGEND PAUL KRAUSE",
         "exchange": [
           {
@@ -1172,20 +1226,58 @@
     ]
   },
   {
-    "active": false,
     "program": 234,
     "name": "Team of the Week",
     "sets": [
+
+      {
+        "name": "Stefon Diggs",
+        "exchange": [
+          {
+            "count": 4,
+            "overall": 86
+          },
+          {
+            "count": 6,
+            "overall": 82
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-11002454"
+          }
+        ]
+      },
+      {
+        "name": "Khalil Mack",
+        "exchange": [
+          {
+            "count": 4,
+            "overall": 86
+          },
+          {
+            "count": 6,
+            "overall": 82
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-11012344"
+          }
+        ]
+      },
       {
         "name": "Tua Tagovailoa",
         "exchange": [
           {
-            "count": 5,
-            "overall": 85
+            "count": 4,
+            "overall": 86
           },
           {
             "count": 6,
-            "overall": 81
+            "overall": 82
           }
         ],
         "reward": [
@@ -1199,12 +1291,12 @@
         "name": "Terrel Bernard",
         "exchange": [
           {
-            "count": 5,
-            "overall": 85
+            "count": 4,
+            "overall": 86
           },
           {
             "count": 6,
-            "overall": 81
+            "overall": 82
           }
         ],
         "reward": [
@@ -1218,7 +1310,7 @@
         "name": "Tre Brown",
         "exchange": [
           {
-            "count": 5,
+            "count": 4,
             "overall": 85
           },
           {
@@ -1237,7 +1329,7 @@
         "name": "Mike Evans",
         "exchange": [
           {
-            "count": 5,
+            "count": 4,
             "overall": 85
           },
           {
