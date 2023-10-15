@@ -307,6 +307,61 @@
     "program": 243,
     "name": "Legends",
     "sets": [
+
+      {
+        "name": "ICONIC LEGEND Darelle Revis",
+        "exchange": [
+          {
+            "count": 1,
+            "id": "24-14127908"
+          },
+          {
+            "count": 2,
+            "overall": 87
+          },
+          {
+            "count": 6,
+            "overall": 84
+          },
+          {
+            "count": 6,
+            "overall": 81
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-14027908"
+          }
+        ]
+      },
+      {
+        "name": "ICONIC LEGEND LINCOLN KENNEDY",
+        "exchange": [
+          {
+            "count": 1,
+            "id": "24-14101361"
+          },
+          {
+            "count": 2,
+            "overall": 87
+          },
+          {
+            "count": 6,
+            "overall": 84
+          },
+          {
+            "count": 6,
+            "overall": 81
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-14001361"
+          }
+        ]
+      },
       {
         "name": "ICONIC LEGEND JOHN RANDLE",
         "exchange": [
@@ -1229,6 +1284,46 @@
     "program": 234,
     "name": "Team of the Week",
     "sets": [
+
+      {
+        "name": "DJ Moore",
+        "exchange": [
+          {
+            "count": 4,
+            "overall": 87
+          },
+          {
+            "count": 6,
+            "overall": 83
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-11013184"
+          }
+        ]
+      },
+
+      {
+        "name": "Trey Hendrickson",
+        "exchange": [
+          {
+            "count": 4,
+            "overall": 87
+          },
+          {
+            "count": 6,
+            "overall": 83
+          }
+        ],
+        "reward": [
+          {
+            "type": "player",
+            "id": "24-11012692"
+          }
+        ]
+      },
 
       {
         "name": "Stefon Diggs",
